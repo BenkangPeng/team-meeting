@@ -2,7 +2,7 @@
 
 * ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing
 * HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures
-* ==BitWave==: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration
+* BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration
 
 ​		[note_previous.md](./2024-04-20/note_previous.md)
 
